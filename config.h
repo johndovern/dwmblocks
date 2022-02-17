@@ -24,6 +24,7 @@ static const Block blocks[] = {
 	{"",	"sb-battery",	5,	3},
 	{"",	"sb-clock",	60,	1},
 	{"",	"sb-internet",	5,	4},
+	{"",	"sb-actions",	0,	30},
 /*	{"",	"sb-help-icon",	0,	15}, */
 };
 
