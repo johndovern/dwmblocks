@@ -3,9 +3,9 @@ static const Block blocks[] = {
   /*Icon*/  /*Command*/    /*Update Interval*/  /*Update Signal*/
   {"",  "sb-tasks",  10,  8},
   {"",  "sb-yt-monitor",  0,  12},
-  {"",  "sb-mpv-music",  0,  21},
-  {"",  "sb-mpv",  0,  22},
-  {"",  "sb-music",  0,  11},
+  {"",  "sb-mpv-music",  1,  21},
+  {"",  "sb-mpv",  1,  22},
+  {"",  "sb-music",  1,  11},
   {"",  "sb-memory",  10,  6},
   {"",  "sb-cpu",    10,  5},
   {"",  "sb-volume",  0,  10},
